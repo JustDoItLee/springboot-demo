@@ -3,7 +3,6 @@ package com.lzweb.demo.web.dao;
 import com.lzweb.demo.web.domain.City;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
-import org.springframework.context.annotation.Bean;
 
 /**
  * @author 李智
